@@ -89,14 +89,6 @@ python manage.py createsuperuser
 
 ---
 
-## 📂 Archivos importantes
-
-### .gitignore
-Ignora:
-- `.env`, `__pycache__`, `*.sqlite3`, `node_modules/`, `media/`, `.DS_Store`, `build/`
-
----
-
 ## 🧑‍💻 Autor
 - GitHub: [simpozo](https://github.com/simpozo)
 
